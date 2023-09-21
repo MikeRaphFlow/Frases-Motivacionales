@@ -1,0 +1,63 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+    margin: 0;
+    padding: 0;
+  }
+  
+  div {
+    background-color: #fff;
+    border-radius: 10px;
+    /* box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); */
+    max-width: 400px;
+    margin: 40px auto;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 5px 5px 5px 5px rgba(0.5, 0.5, 0.5, 0.5)
+  }
+  
+  h1 {
+    color: #333;
+    font-size: 32px;
+  }
+  
+  h2 {
+    color: #444;
+    font-size: 20px;
+    margin-top: 10px;
+  }
+  
+  p {
+    color: #666;
+    font-size: 18px;
+    margin-top: 10px;
+  }
+  
+  img {
+    border-radius: 50%;
+    box-shadow: 5px 5px 5px 5px rgba(0.5, 0.5, 0.5, 0.5)
+  }
+  
+  button {
+    background-color: #007bff;
+    color: #fff;
+    font-size: 18px;
+    border: none;
+    padding: 10px 20px;
+    margin-top: 20px;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 1)
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+    box-shadow: 7px 7px 12px rgba(0, 0, 0, 2);
+  }
+  
+  /* Emoji styles */
+  /* You may need to use a specific emoji font for this */
+  /* Example for macOS: font-family: Apple Color Emoji, Segoe UI Emoji, NotoColorEmoji; */
+  /* Example for Google's Noto Emoji: font-family: 'Noto Color Emoji', sans-serif; */
+  
